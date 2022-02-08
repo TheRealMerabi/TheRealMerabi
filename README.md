@@ -1,4 +1,4 @@
-Hello! My name is Ahmad Al Merabi. I go by Merabi and I have a passion in designed websites and games. 
+Hello! My name is Ahmad Al Merabi. I go by Merabi and I have a passion in designing websites and games. 
 
 I moved to Canada in 2015 after i got accepted at Carleton University to Major in Communications Engineering. After 5 Years in that degree, I realized that my passion was more
 programming related than electronics. I ended up picking Game Development at Algonquin College.
